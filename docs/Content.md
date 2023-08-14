@@ -89,6 +89,9 @@ Asset Permission System - https://medium.com/@alephium/alephiums-aps-eliminating
 
 Asset Permission System - https://twitter.com/alephium/status/1673354565801091074
 
+TxScripts and Smart Contracts : Why use them? -
+https://twitter.com/alephium/status/1688907382615945218?s=20
+
 ## Explainer Series
 
 First Developer Workshop — Build a Token Faucet ( Article ) - https://medium.com/@alephium/first-developer-workshop-build-a-token-faucet-a6bb2aa7bf68
@@ -165,6 +168,8 @@ https://medium.com/@alephium/tech-talk-1-the-ultimate-guide-to-proof-of-less-wor
 Nov/21 - First Live AMA - https://medium.com/@alephium/alephiums-first-live-ama-761a90d3f672
 
 ## Milestones 
+
+Aug/7 New Visuals : Same Awesome Tech/ Website Updated : https://twitter.com/alephium/status/1688558052046426112?s=20
 
 Jun/23 Alephium NFT Marketplace Poc On Testnet - https://twitter.com/alephium/status/1674397139835973633
 
